@@ -14,8 +14,8 @@ import (
 )
 
 const (
-	YANDEX_API_KEY = {{ secrets.API_KEY }}
-	YANDEX_API_URL = {{ secrets.API_URL }}
+	YANDEX_API_KEY = ${{ secrets.API_KEY }}
+	YANDEX_API_URL = ${{ secrets.API_URL }}
 
 	CODES_FILE = "../datasource/codes.json"
 )
