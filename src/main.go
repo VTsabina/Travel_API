@@ -14,7 +14,7 @@ import (
 )
 
 const (
-	YANDEX_API_KEY = "9ceb5921-dc2a-40b4-9af1-1c33d900360e"
+	YANDEX_API_KEY = {{ secrets.API_KEY }}
 	YANDEX_API_URL = "https://api.rasp.yandex.net/v3.0/search/"
 
 	CODES_FILE = "../datasource/codes.json"
