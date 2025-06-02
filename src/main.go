@@ -1,18 +1,18 @@
 /*
 =======================================================================
-‖                            Travel_API                               ‖
-‖                     CUP-IT-2025 Changellenge                        ‖
-‖                          Кейс: Axenix                               ‖
-‖                       Команда: Headliners                           ‖
-‖													  		          ‖
-‖																	  ‖
-‖		 Авторы:			 										  ‖
-‖		 - Цабина Валерия (https://github.com/VTsabina)			      ‖
-‖		 - Зайцев Данила (https://github.com/ZaitsevD12)			  ‖
-‖		 - Постовалова Лада (https://github.com/Lada12345)		      ‖
-‖		 - Миронович Игорь (https://github.com/steelemi987)		      ‖
-‖																	  ‖
-‖		             © 2025 Все права защищены.						  ‖
+                             Travel_API                               
+                      CUP-IT-2025 Changellenge                        
+                           Кейс: Axenix                               
+                        Команда: Headliners                           
+ 													  		          
+ 																	  
+ 		 Авторы:			 										  
+ 		 - Цабина Валерия (https://github.com/VTsabina)			      
+ 		 - Зайцев Данила (https://github.com/ZaitsevD12)			  
+ 		 - Постовалова Лада (https://github.com/Lada12345)		      
+ 		 - Миронович Игорь (https://github.com/steelemi987)		      
+ 																	  
+ 		             © 2025 Все права защищены.						  
 =======================================================================
 */
 
